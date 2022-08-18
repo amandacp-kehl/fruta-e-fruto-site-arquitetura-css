@@ -24,7 +24,7 @@ Também deixamos o site responsivo, se adaptando às alterações de tela e mant
 
 ## Atomic Design 
 
-Nesse projeto foi utilizada a metodologia do Atomic Design para organizar o CSS. Esse é um conceito criado por Brad Frost, que traz um jeito de analisar o que produzimos a partir de categorias que vão agregando cada vez mais componentes de uma forma lógica a partir do átomo.
+Utilizamos a metodologia do Atomic Design para organizar o CSS. Esse é um conceito criado por Brad Frost, que traz um jeito de analisar o que produzimos a partir de categorias que vão agregando cada vez mais componentes de uma forma lógica a partir do átomo.
 
 <img src="assets/img/readme/atomic-design.png" width="400" height="250" />
 
