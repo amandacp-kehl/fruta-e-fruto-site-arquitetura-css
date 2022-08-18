@@ -1,7 +1,9 @@
 
-# ![Arquitetura-css]()
+# Arquitetura CSS 
 
-Trabalho desenvolvido durante curso de arquitetura da Alura ministrado pelo Matheus Castiglioni.
+![imagemCSS](assets/img/readme/css3.png)
+
+Trabalho desenvolvido durante curso de arquitetura da Alura ministrado pelo instrutor Matheus Castiglioni.
 
 ## Sobre o projeto
 
@@ -24,5 +26,11 @@ Também deixamos o site responsivo, se adaptando às alterações de tela e mant
 
 Nesse projeto foi utilizada a metodologia do Atomic Design para organizar o CSS. Esse é um conceito criado por Brad Frost, que traz um jeito de analisar o que produzimos a partir de categorias que vão agregando cada vez mais componentes de uma forma lógica a partir do átomo.
 
-![]("../../img/readme/atomic-design.png")
+<img src="assets/img/readme/atomic-design.png" width="400" height="250" />
+
+## Confira uma prévia do projeto
+
+![gif com prévia do site](assets/img/readme/gif-previa-site.gif)
+
+
 
